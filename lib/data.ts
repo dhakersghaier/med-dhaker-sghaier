@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "Licence in Telecommunications",
     location: "ISITCOM Hammam Sousse, Tunisia",
     description:
-      "I graduated after 3 years of studying in Telecomunication and It.",
+      "Graduated after 3 years of studying in Telecomunication and It.",
     icon: React.createElement(LuGraduationCap),
     date: "2020-2023",
   },
