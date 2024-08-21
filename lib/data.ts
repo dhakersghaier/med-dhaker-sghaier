@@ -61,6 +61,7 @@ export const experiencesData = [
   {
     title: "Computer Science Engineering",
     location: "EPI Sousse, Tunisia",
+    description:"",
     icon: React.createElement(LuGraduationCap),
     date: "09/2023-07/2026",
   },
